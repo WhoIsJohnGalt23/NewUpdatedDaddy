@@ -124,6 +124,13 @@
 }
 
 /***player search***/
+#teamspage-wrapper li {
+    background-color: rgba(255, 255, 255, 0);
+}
+legend {
+    color: #8d0f0f;
+}
+
 #playerSearchContainer {
     color: #485461;
 }
@@ -235,10 +242,10 @@ width: 1178px;
     transform: rotate(-90deg);
     transform-origin: 20% 265%;
     width: 80px;
-    background: #f6f6f6 none repeat scroll 0 0;
-    color: #414141;
+    background: #000000 none repeat scroll 0 0;
+    color: #FFFFFF;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 100;
     text-align: center;
     border: 1px solid #ccc;
 }
@@ -314,12 +321,12 @@ span.teamname {
     position: relative;
 }
 .scheduleweek {
-    background: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/stadium.png);
+    background: url(https://i.pinimg.com/originals/75/6d/9d/756d9d73c3c0957e6252c2855a5aec66.jpg);
     font-size: 12px;
-    border-top: #E4E3E3 3px solid;
-    border-left: #6E6E6E 3px solid;
-    border-right: #898888 3px solid;
-    border-bottom: #8B8A8A 3px solid;
+    border-top: #FFFFFF 3px solid;
+    border-left: #FFFFFF 3px solid;
+    border-right: #FFFFFF 3px solid;
+    border-bottom: #FFFFFF 3px solid;
     padding-left: 0px;
     padding-right: 5px;
     color: white;
@@ -327,7 +334,6 @@ span.teamname {
     border-radius: 10px;
     background-size: 100%;
 }
-
 .col-md-9.col-xs-9.col-sm-9 {
     float: left;
 }
