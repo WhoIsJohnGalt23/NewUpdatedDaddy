@@ -983,7 +983,7 @@ span.min{
     height: 204px;
     overflow: hidden;
     background-size: 100%;
-    background-image: url(http://i.nflcdn.com/static/site/7.4/img/schedules/fields/day/prepost/field-sunny@2x.png), url(), -webkit-linear-gradient(top, rgba(247, 248, 248, 0), rgba(0, 0, 0, 0)), url();
+    background-image: url(), url(), -webkit-linear-gradient(top, rgba(247, 248, 248, 0), rgba(0, 0, 0, 0)), url();
     background-position: 1PX -70PX,0px 4px;
 }
 
