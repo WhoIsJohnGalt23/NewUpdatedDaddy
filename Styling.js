@@ -73,6 +73,7 @@ $('.data-table1 td:contains("Titans")').prepend('<img src="http://www.fbschedule
 
 $('.data-table1 td:contains("Redskins")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/20/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("was");
 
+
 $('a>span:contains("ARI")').replaceWith('<img src="http://i.nflcdn.com/static/site/6.9/img/logos/teams-gloss-81x54/ari.png" width="20" height="15"" class="scoreboard"> ARI</span>');
 $('a>span:contains("ATL")').replaceWith('<img src="http://i.nflcdn.com/static/site/6.9/img/logos/teams-gloss-81x54/atl.png" width="20" height="15"" class="scoreboard"> ATL</span>');
 $('a>span:contains("BAL")').replaceWith('<img src="http://i.nflcdn.com/static/site/6.9/img/logos/teams-gloss-81x54/bal.png" width="20" height="15"" class="scoreboard"> BAL</span>');
