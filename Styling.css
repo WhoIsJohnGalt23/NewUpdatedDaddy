@@ -334,103 +334,105 @@ span.teamname {
     border-radius: 10px;
     background-size: 100%;
 }
-.col-md-9.col-xs-9.col-sm-9 {
-    float: left;
-}
 
-.scheduleweek .at {         padding: 0px 0px 0px;
-    text-align: center;
-    left: 32px;
-    top: 33px;
-    line-height: 26px;
-    width: 150px;
-    font-size: 12px;
-}
-.scheduleweek .awayteamlogo{       height: 70px;
-    width: 150px;
-    overflow: hidden;
-    background-color: transparent;
-    background-repeat: no-repeat;
-    background-size: 157px;
-    line-height: 13px;
-    position: absolute;
-    left: 284px;
-}
-.scheduleweek .record {    line-height: 0px;
-    color: #FFC500;
-    text-shadow: 0px 2px 5px black;
-    display: inline-block;
-    width: 62px;
-    text-align: center;
-    left: 197px;
-    position: absolute;
-    font-size: 14px;
-    top: 26px;
-}
-.scheduleweek .score {    font-size: 36px;
-    font-weight: bold;
-    color: #FFFFFF;
-    text-shadow: 0 0px 52px #51A5FA;
-}
-.scheduleweek .hometeam .record {
-       margin-left: -154px;
-    color: #e9ae03;
-    font-size: 15px;
-}
-.scheduleweek .awayteam {
-    float: left;
-    width: 300px;
-    margin: -10px 0 0 -49px;
-}
-.scheduleweek .awayteam .record {
-    margin-left: 180px;
-    color: #ffb300;
-    font-size: 15px;
-}
-.scheduleweek .awayteam .name {margin-left: 91px;
-    margin-top: 11px;
-    font-size: 32px;
-    text-align: right;
-    font-weight: 700;
-    text-transform: uppercase;
-}
-.scheduleweek .hometeam .name {
-    margin: 12px 0 0 -144px;
-    font-size: 32px;
-    font-weight: 700;
-    text-transform: uppercase;
-}
-.scheduleweek .away-team {         text-align: left;
-    top: 0px;
-    padding-top: 0px;
-    position: absolute;
-    height: 50%;
-    width: 455px;
-    left: 378px;
-    background-image: url('http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/game-details-at.png');
-    background-repeat: no-repeat;
-    background-size: 7%;
-    background-position: 21px 13px;
-}
-.scheduleweek .awayb1{      margin-right: 6px;
-    height: 70px;
-    width: 100px;
-    float: left;
-    background-color: transparent;
-    background-repeat: no-repeat;
-    background-position: 83% 11px;
-    background-size: 52px;
-}
-.scheduleweek .hometeamlogo {      height: 70px;
-    width: 150px;
-    float: left;
-    overflow: hidden;
-    background-color: transparent;
-    background-repeat: no-repeat;
-    background-position: 45% -43px;
-    background-size: 157px;
-    line-height: 13px;
-}
+.col-md-9.col-xs-9.col-sm-9 {
+	    float: left;
+	}
+	
+	.scheduleweek .at {         padding: 0px 0px 0px;
+	    text-align: center;
+	    left: 32px;
+	    top: 33px;
+	    line-height: 26px;
+	    width: 100px;
+	    font-size: 12px;
+	}
+	.scheduleweek .awayteamlogo{       height: 70px;
+	    width: 150px;
+	    overflow: hidden;
+	    background-color: transparent;
+	    background-repeat: no-repeat;
+	    background-size: 157px;
+	    line-height: 13px;
+	    position: absolute;
+	    left: 284px;
+	}
+	.scheduleweek .record {    line-height: 0px;
+	    color: #FFC500;
+	    text-shadow: 0px 2px 5px black;
+	    display: inline-block;
+	    width: 162px;
+	    text-align: center;
+	    left: 140px;
+	    position: absolute;
+	    font-size: 14px;
+	    top: 26px;
+	}
+	.scheduleweek .score {    font-size: 24px;
+	    font-weight: bold;
+	    color: #FFFFFF;
+	    text-shadow: 0 0px 52px #51A5FA;
+	}
+	.scheduleweek .hometeam .record {
+	       margin-left: -154px;
+	    color: #ffffff;
+	    font-size: 15px;
+	}
+	.scheduleweek .awayteam {
+	    float: left;
+	    width: 300px;
+	    margin: -10px 0 0 -49px;
+	}
+	.scheduleweek .awayteam .record {
+	    margin-left: 100px;
+	    color: #ffffff;
+	    font-size: 15px;
+	}
+	.scheduleweek .awayteam .name {margin-left: 21px;
+	    margin-top: 11px;
+	    font-size: 22px;
+	    text-align: right;
+	    font-weight: 700;
+	    text-transform: uppercase;
+	}
+	.scheduleweek .hometeam .name {
+	    margin: 12px 0 0 -94px;
+	    font-size: 22px;
+	    font-weight: 700;
+	    text-transform: uppercase;
+	}
+	.scheduleweek .away-team {         text-align: left;
+	    top: 0px;
+	    padding-top: 0px;
+	    position: absolute;
+	    height: 50%;
+	    width: 455px;
+	    left: 378px;
+	    background-image: url('http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/game-details-at.png');
+	    background-repeat: no-repeat;
+	    background-size: 7%;
+	    background-position: 21px 13px;
+	}
+	.scheduleweek .awayb1{      margin-right: 6px;
+	    height: 70px;
+	    width: 100px;
+	    float: left;
+	    background-color: transparent;
+	    background-repeat: no-repeat;
+	    background-position: 83% 11px;
+	    background-size: 52px;
+	}
+	.scheduleweek .hometeamlogo {      height: 70px;
+	    width: 150px;
+	    float: left;
+	    overflow: hidden;
+	    background-color: transparent;
+	    background-repeat: no-repeat;
+	    background-position: 45% -43px;
+	    background-size: 157px;
+	    line-height: 13px;
+	}
+
 /***standings panels***/
 img.teamLogo {
     position: relative;
@@ -469,8 +471,8 @@ img.teamLogo {
 /***tables***/
 
 .data-table1 th, table.data-table1 td {
-    font-family: inherit;
-    font-size: 16px;
+    font-family: arial;
+    font-size: 11px;
 }
 td.bubble {
     background: #323b44 none repeat scroll 0 0!important;
@@ -505,6 +507,24 @@ table.data-table1 tr:nth-child(odd) {
     height: 203px!important;
     margin-top: -25px;
     margin-left: -68px;
+}
+.panel-player .panel-heading {
+    text-transform: uppercase;
+    transform: rotate(-90deg);
+    transform-origin: left top 0;
+    padding-top: 1px;
+    font-style: italic;
+    position: relative;
+    top: 276px;
+    LETTER-SPACING: -.01em;
+    height: 49px;
+    width: 271px;
+    line-height: 38px;
+    z-index: 105;
+    right: 2px;
+    text-align: right;
+    padding-right: 9px;
+    padding-bottom: 0px;
 }
 .playeroftheweek {        margin: 0;
     margin-top: 0px;
@@ -582,33 +602,34 @@ table.data-table1 tr:nth-child(odd) {
 div#dplayeroftheweek-container {
     margin-bottom: 0px;
 }
-.panel-player .playeroftheweek-name {           text-transform: uppercase;
+.panel-player .playeroftheweek-name {      text-transform: uppercase;
     color: #ffffff;
-    font-size: 70px;
+    font-size: 22px;
     position: absolute;
-    top: 60px;
+    top: 83px;
     height: 21%;
     z-index: 6;
-    left: 334px;
-    width: 162px;
+    left: 239px;
+    width: 283px;
     text-align: right;
 }
-.panel-player .text .stat-value {    letter-spacing: 0px;
+.panel-player .text .stat-value {   letter-spacing: 0px;
     margin-bottom: 0;
     position: absolute;
-    color: #9c9c9c;
-    top: -32px;
+    color: #ce1919;
+    top: -87px;
+    text-shadow: 0px 0px 24px #de4f4f;
     text-align: right;
-    left: 296px;
+    left: 251px;
     z-index: 6;
     line-height: 10px;
-    width: 70%;
-    font-size: 20px;
+    width: 96%;
+    font-size: 15px;
 }
 .playeroftheweek-name, .playeroftheweek-name a {
-color: #9c9c9c;
-    font-size: 23px;
-    font-weight: 700;
+    color: #9c9c9c;
+    font-size: 20px;
+    font-weight: 200;
     line-height: 37px;
 }
 .panel-player .text {          background-color: transparent;
@@ -666,7 +687,7 @@ div#potw {          position: relative;
 }
 .gowh {
     background-size: 75%, 100%, 73%;
-    background-position: 148px 0px, -280px 0px, 0px 2px;
+    background-position: 148px 0px, -280px 0px, -90px -30px;
     background-repeat: no-repeat;
     width: 589px;
     font-size: 100px;
@@ -701,11 +722,11 @@ div#potw {          position: relative;
 }
 .align-right.clickable.ng-scope span.score.ng-binding {
      TOP: 116PX;
-    left: 515px;
+    left: 513px;
 }
 .clickable ng-scope, span.score.ng-binding {
-    TOP: 116PX;
-    left: -23px;
+       TOP: 118PX;
+    left: -25px;
 }
 .team {
     font-size: 16px;
@@ -715,9 +736,8 @@ div#potw {          position: relative;
     color: #ffd600;
     text-shadow: 0px 2px 11px #000000;
     position: relative;
-    top: -43px;
+    top: -43px; left:31px;
     z-index: 1;
-    right: -32x;
     padding-left: 1px;
     letter-spacing: .1em;
     text-align: left;
@@ -738,7 +758,7 @@ div#gameoftheweek-container {
     position: relative;
     top: -43px;
     z-index: 1;
-    left: -38px;
+    left: -36px;
     padding-left: 1px;
     letter-spacing: .1em;
     text-align: right;
@@ -777,8 +797,8 @@ span.home.use {
     padding-top: 30px;
     padding-left: 25px;
     color: #f4feff;
-    text-shadow: 0px 1px 6px #4ed2e6;
-    animation: slide-in-right 2600ms ease-out;
+    text-shadow: 0px 1px 6px #ef0404;
+    animation: slide-in-right 1s ease-out;
 }
 span.away.use {
     top: 37px;
@@ -799,8 +819,8 @@ span.away.use {
     padding-top: 30px;
     padding-right: 35px;
     color: #f4feff;
-    text-shadow: 0px 1px 6px #4ed2e6;
-    animation: slide-in-right 2600ms ease-out;
+    text-shadow: 0px 1px 6px #ef0404;
+    animation: slide-in-right 1s ease-out;
 }
 span.use {    top: -36px;
     z-index: 69;
@@ -821,8 +841,8 @@ span.use {    top: -36px;
     padding-top: 30px;
     padding-right: 41px;
     color: #f4feff;
-    text-shadow: 0px 1px 6px #4ed2e6;
-    animation: slide-in-right 2600ms ease-out;
+    text-shadow: 0px 1px 6px #ef0404;
+    animation: slide-in-right 1s ease-out;
 }
 .home.team {
     border-bottom: solid 1px white;
@@ -855,6 +875,7 @@ span.use {    top: -36px;
     top: 134px;
 }
 
+
 /***gow  away and home team images***/
 span.ari-away {
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/cardinals.png),linear-gradient(-90deg, #88142e, rgba(0, 0, 0, 0)), url(https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/7134717/0490979001449583941_filepicker.jpg);
@@ -880,10 +901,10 @@ url( http://cdn.fansided.com/wp-content/blogs.dir/60/files/2012/09/2458-bears_tu
 }
 
 span.cin-away {
-      background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/bengals.png),linear-gradient(-90deg, #f15c43, rgba(0, 0, 0, 0)), url(http://nflfemale.com/wp-content/uploads/2016/01/Postseason-coming-out-of-tunnel.jpe);
+      background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/bengals.png),linear-gradient(-90deg, #f15c43, rgba(0, 0, 0, 0)), url(http://www.core360m.com/pages/football/cinciatl13/cinciatl_02.JPG);
 }
 span.cin {
-      background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/bengals.png),linear-gradient(-90deg, #f15c43, rgba(0, 0, 0, 0)), url(http://nflfemale.com/wp-content/uploads/2016/01/Postseason-coming-out-of-tunnel.jpe);
+      background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/bengals.png),linear-gradient(-90deg, #f15c43, rgba(0, 0, 0, 0)), url(http://www.core360m.com/pages/football/cinciatl13/cinciatl_02.JPG);
 }
 
 span.buf-away {
@@ -891,7 +912,7 @@ span.buf-away {
 url(http://cdn.fansided.com/wp-content/blogs.dir/16/files/2013/09/buffalo-bills-robert-woods-ej-manuel.jpg );
 }
 span.buf{
-    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/bills.png),linear-gradient(-90deg, #a21c20, rgba(0, 0, 0, 0)),
+    background-image: url(http://prod.static.dolphins.clubs.nfl.com/nfl-assets/img/schedule-list/logos/helmet-right-weather-mascot-248x220/day/sunny/bills.png),linear-gradient(-90deg, #a21c20, rgba(0, 0, 0, 0)),
 url(http://cdn.fansided.com/wp-content/blogs.dir/16/files/2013/09/buffalo-bills-robert-woods-ej-manuel.jpg );
 }
 
@@ -924,11 +945,11 @@ url( http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/07/6906496.jpg)
 
 span.sd-away {
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/chargers.png),linear-gradient(-90deg, #deae28, rgba(0, 0, 0, 0)),
-url(https://sidelinechamp.files.wordpress.com/2015/11/chargers-top-10-feature-pic.jpg );
+url(https://i.pinimg.com/736x/3f/85/76/3f85762e663b65bc357bc63d07bfa11e.jpg );
 }
 span.sd {
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/chargers.png),linear-gradient(-90deg, #deae28, rgba(0, 0, 0, 0)),
-url(https://sidelinechamp.files.wordpress.com/2015/11/chargers-top-10-feature-pic.jpg );
+url(https://i.pinimg.com/736x/3f/85/76/3f85762e663b65bc357bc63d07bfa11e.jpg );
 }
 
 span.kc-away {
@@ -1013,11 +1034,9 @@ span.det{
 url(http://cdn.fansided.com/wp-content/blogs.dir/53/files/2014/08/dominic-raiola-brandon-pettigrew-nfl-chicago-bears-detroit-lions.jpg );}
 
 span.car-away {
-    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/packers.png),linear-gradient(-90deg, #f7c615, rgba(0, 0, 0, 0)),
-url(http://www.charlotteobserver.com/sports/f2sqhw/picture39718932/ALTERNATES/FREE_640/Panthers%20Seahawks%20Football.JPG );}
+    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/panthers.png),linear-gradient(-90deg, #15baf7, rgba(0, 0, 0, 0)), url(http://www.charlotteobserver.com/sports/f2sqhw/picture39718932/ALTERNATES/FREE_640/Panthers%20Seahawks%20Football.JPG);}
 span.car{
-    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/packers.png),linear-gradient(-90deg, #f7c615, rgba(0, 0, 0, 0)),
-url(http://www.charlotteobserver.com/sports/f2sqhw/picture39718932/ALTERNATES/FREE_640/Panthers%20Seahawks%20Football.JPG );}
+    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/panthers.png),linear-gradient(-90deg, #15baf7, rgba(0, 0, 0, 0)), url(http://www.talkoffamenetwork.com/wp-content/uploads/2015/12/KuechlyLukeTunnel.jpg);}
 
 span.ne-away {
      background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/patriots.png),linear-gradient(-90deg, #1a2f5a, rgba(0, 0, 0, 0)), url(http://www1.pictures.zimbio.com/gi/Tom+Brady+New+England+Patriots+v+Pittsburgh+9vqHi_NMwIll.jpg);
@@ -1034,11 +1053,11 @@ span.oak{
 url(http://www.rantsports.com/nfl/files/2014/11/carr.jpg );}
 
 span.stl-away {
-    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/rams.png),linear-gradient(-90deg, #f3c878, rgba(0, 0, 0, 0)),
-url(http://www.trbimg.com/img-5695ae3c/turbine/la-sp-nfl-meet-the-los-angeles-rams-20160110 );}
+    background-image: url(http://i.imgur.com/GdbZtlG.png),linear-gradient(-90deg, #f3c878, rgba(0, 0, 0, 0)),
+url(https://ramblinfan.com/wp-content/uploads/usat-images/2016/04/9748288-nfl-los-angeles-rams-at-seattle-seahawks.jpeg );}
 span.stl{
-    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/rams.png),linear-gradient(-90deg, #f3c878, rgba(0, 0, 0, 0)),
-url(http://www.trbimg.com/img-5695ae3c/turbine/la-sp-nfl-meet-the-los-angeles-rams-20160110 );}
+    background-image: url(http://i.imgur.com/8J81sob.png?1),linear-gradient(-90deg, #f3c878, rgba(0, 0, 0, 0)),
+url(https://ramblinfan.com/wp-content/uploads/usat-images/2016/04/9748288-nfl-los-angeles-rams-at-seattle-seahawks.jpeg );}
 
 span.bal-away {
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/ravens.png),linear-gradient(-90deg, #000000, rgba(0, 0, 0, 0)),
@@ -1049,10 +1068,10 @@ url(http://www.baltimoreravens.com/assets/images/imported/mediacontent/~/media/3
 
 span.was-away {
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/redskins.png),linear-gradient(-90deg, #efb91b, rgba(0, 0, 0, 0)),
-url(http://www.uglyboyfresh.com/wp-content/uploads/2013/05/robtringali.jpg );}
+url(http://prod.static.redskins.clubs.nfl.com//assets/images/imported/WAS/centerpieces/2016-Centerpieces/Games/Wk17-Giants/Team_tunnel_660.jpg );}
 span.was{
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/redskins.png),linear-gradient(-90deg, #efb91b, rgba(0, 0, 0, 0)),
-url(http://www.uglyboyfresh.com/wp-content/uploads/2013/05/robtringali.jpg );}
+url(http://prod.static.redskins.clubs.nfl.com//assets/images/imported/WAS/centerpieces/2016-Centerpieces/Games/Wk17-Giants/Team_tunnel_660.jpg );}
 
 span.no-away {    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/saints.png),linear-gradient(-90deg, #d8ba7a, rgba(0, 0, 0, 0)),
 url(http://media.nola.com/saints_impact/photo/saints-brees-huddlejpg-6ad6eff9572e5b2f_large.jpg);}
@@ -1061,19 +1080,17 @@ url(http://media.nola.com/saints_impact/photo/saints-brees-huddlejpg-6ad6eff9572
 
 span.sea-away {
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/seahawks.png),linear-gradient(-90deg, #31fb61, rgba(0, 0, 0, 0)),
-url(http://www.gannett-cdn.com/-mm-/c0371bcff746c5750375c7f5d128b745bc95afe1/c=0-443-4081-2749&r=x1683&c=3200x1680/local/-/media/2015/12/24/Salem/Salem/635865804252207137-Browns-
-Seahawks-Footb-Kirk.jpg );}
+url(https://seattlesports365.files.wordpress.com/2015/09/seahawks-tunnel-large.jpg?w=1600&h=768&crop=1 );}
 span.sea{
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/seahawks.png),linear-gradient(-90deg, #31fb61, rgba(0, 0, 0, 0)),
-url(http://www.gannett-cdn.com/-mm-/c0371bcff746c5750375c7f5d128b745bc95afe1/c=0-443-4081-2749&r=x1683&c=3200x1680/local/-/media/2015/12/24/Salem/Salem/635865804252207137-Browns-
-Seahawks-Footb-Kirk.jpg );}
+url(https://seattlesports365.files.wordpress.com/2015/09/seahawks-tunnel-large.jpg?w=1600&h=768&crop=1 );}
 
 span.pit-away {
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/steelers.png),linear-gradient(-90deg, #ddab26, rgba(0, 0, 0, 0)),
-url(http://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wtae/30539682-30539682.jpg );}
+url(http://a.espncdn.com/photo/2014/1103/espn_wip_23b.jpg );}
 span.pit{
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/steelers.png),linear-gradient(-90deg, #ddab26, rgba(0, 0, 0, 0)),
-url(http://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wtae/30539682-30539682.jpg );}
+url(http://a.espncdn.com/photo/2014/1103/espn_wip_23b.jpg );}
 
 span.hou-away {
     background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/texans.png),linear-gradient(-90deg, #0b1326, rgba(0, 0, 0, 0)), url(https://s3media.247sports.com/Uploads/Assets/391/175/6_4175391.jpg);
@@ -1101,21 +1118,21 @@ span.min{
     height: 73px;
     background-color: rgba(0, 0, 0, 0);
     border-radius: 0 0 .2em .2em;
-    margin: 0 auto; font-family:inherit;
+    margin: 0 auto; font-family:Stencil;
     text-align: center;
     text-shadow: 1px 1px 7px black;
 }
 /***top slideshow***/
-.outer {        width: 770px;
+.outer {       width: 770px;
     margin: 0 auto;
     position: relative;
     top: 0;
     left: 1px;
     height: 204px;
     overflow: hidden;
-    background-size: 100%;
-    background-image: url(), url(), -webkit-linear-gradient(top, rgba(247, 248, 248, 0), rgba(0, 0, 0, 0)), url();
-    background-position: 1PX -70PX,0px 4px;
+    background-size: 100%,100%;
+    background-image: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png),url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/stadium-flare.png), url(), -webkit-linear-gradient(top, rgba(247, 248, 248, 0), rgba(0, 0, 0, 0)), url();
+    background-position: 0PX 3PX,0px -349px;
 }
 
 .inner {     display: block;
@@ -1133,20 +1150,20 @@ pic img {    object-fit: contain;
     height: 190px;
     overflow: hidden;
     border-right: solid 1px #e2322a;
-    animation: fadein-slideup ease 3s;
+    animation: fadein-slideup ease 1s;
 }
 b1, b2, b3 {
 position: relative;     left: 226px;    padding-left: 8px;
     text-align: left;
     display: block;
 }
-b1 {        top: -191px;
+b1 {   top: -175px;
     width: 535px;
     height: 193px;
-    font-size: 60px;
+    font-size: 44px;
     text-transform: uppercase;
     line-height: 1em;
-    animation: fadein-slideup ease 3s;
+    animation: fadein-slideup ease 1s;
 }
 
 b2 {      top: -332px;
@@ -1154,16 +1171,16 @@ b2 {      top: -332px;
     height: 75px;
     font-size: 30px;
     text-transform: uppercase;
-    animation: fadein-slidedown ease 4s;
+    animation: fadein-slidedown ease 1s;
 }
 
 b3 {        top: -369px;
     width: 441px;
     height: 110px;
-    font-size: 19px;
+    font-size: 14px;
     text-transform: uppercase;
     line-height: 1.2em;
-    animation: fadein-slidedown ease 5s;
+    animation: fadein-slidedown ease 1s;
 }
 
 @keyframes fadein-slideup {
@@ -1241,19 +1258,19 @@ table.data-table1 {
 /***menu***/
 a {
     text-decoration: none;
-    -moz-transition: all 300ms ease-out;
-    -webkit-transition: all 300ms ease-out;
-    -ms-transition: all 300ms ease-out;
-    transition: all 300ms ease-out;
+    -moz-transition: all 100ms ease-out;
+    -webkit-transition: all 100ms ease-out;
+    -ms-transition: all 100ms ease-out;
+    transition: all 100ms ease-out;
 }
 .nav>li>a:hover, .nav>li>a:focus {
     text-decoration: none;
 }
 #nav {       height: 34px;
     line-height: 42px;
-    width: 1086px;
+    width: 900px;
     position: absolute;
-    top: 160px;
+    top: 170px;
     left: 156px;
     z-index: 300;
 }
@@ -1295,7 +1312,7 @@ a {
     text-shadow: 0px 1px 7px black;
     position: relative;
     display: block;
-    font-size: 15px;
+    font-size: 10px;
     letter-spacing: .05em;
     height: 34px;
     overflow: hidden;
@@ -1369,10 +1386,10 @@ a {
     top: 39px;
     visibility: hidden;
     width: 0;
-    -moz-transition: all 300ms ease-out;
-    -webkit-transition: all 300ms ease-out; 
-    -ms-transition: all 300ms ease-out; 
-    transition: all 300ms ease-out;
+    -moz-transition: all 100ms ease-out;
+    -webkit-transition: all 100ms ease-out; 
+    -ms-transition: all 100ms ease-out; 
+    transition: all 100ms ease-out;
 }
 
 #nav ul li:hover ul {
@@ -1407,7 +1424,7 @@ a {
 #nav ul ul li a {
     border-top: 1px solid #fff;    border-left: 0px solid rgba(85, 85, 85, 0.42);
     color:bacl;
-    font-size: 12px;
+    font-size: 10px;
     height: 36px;
     line-height: 36px;
     padding: 0 3px 0 5px;
@@ -1426,7 +1443,7 @@ a {
 }
 
 #nav ul ul li a:hover {
-    font-size: 13px;
+    font-size: 10px;
     color: #f16025;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
@@ -1455,7 +1472,7 @@ div#header {        height: 202px;
     text-align: left;
 }
 body {
-   font-family: DLSansCondMedium;
+   font-family: arial;
     background-attachment: fixed;     font-size: 17px;
     padding: 5px;
     background-position: center top;
@@ -1589,10 +1606,10 @@ a.yui3-scorestrip-tile-content {
     width: 400px;
     height: 270px;
     top: 15px;
-    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png), url(http://interactives.dallasnews.com/embeds/zeke-tracker/images/_elliott_cut_small.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
+    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png), url(https://i.imgur.com/7rxiuG8.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
     background-repeat: repeat,no-repeat, no-repeat;
-    background-size: 7PX, 82%,200%;
-    background-position: 0px 0px, 74PX  1px, -248px -143px;
+    background-size: 10PX, 120%,200%;
+    background-position: 0px 0px, 1PX  1px, -248px -160px;
 }
 .portfolio-box2 .portfolio-box2-caption {
   display: block;
@@ -1611,10 +1628,10 @@ a.yui3-scorestrip-tile-content {
     width: 490px;
     height: 269px;
     top: -256px;
-    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png), url(http://2.bp.blogspot.com/-2Lw217O57MM/Tmgdgqbq8cI/AAAAAAAACFk/oFbuz1ULi74/s1600/aaron+rodgers.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
+    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png), url(https://i.imgur.com/rg7le1O.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
     background-repeat: repeat,no-repeat, no-repeat;
     background-size: auto, 82%, auto;
-    background-position: 0px -39px, 68% -32px, -142px -75px;
+    background-position: 0px -39px, 68% -2px, -142px -75px;
 }
 .portfolio-box3 .portfolio-box3-caption {
   display: block;
@@ -1633,7 +1650,7 @@ a.yui3-scorestrip-tile-content {
     width: 490px;
     height: 270px;
     top: -243px;
-    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png), url(http://i137.photobucket.com/albums/q239/Friartown/AnBrown.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
+    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png), url(https://i.imgur.com/I246tFg.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
     background-repeat: repeat,no-repeat, no-repeat;
     background-size: auto, 82%, auto;
     background-position: 0px -39px, 65% 1px, -5px -2px;
@@ -1655,10 +1672,10 @@ a.yui3-scorestrip-tile-content {
     width: 400px;
     height: 270px;
     top: -510px;
-    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png),url(http://jetsrant.com/wp-content/uploads/2014/02/Watt2.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
+    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png),url(https://i.imgur.com/YEO1kel.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
     background-repeat: repeat,no-repeat, no-repeat;
-    background-size: 7PX, 82%,200%;
-    background-position: 0px 0px, 74PX 1px, -315px -23px;
+    background-size: 7PX, 70%,200%;
+    background-position: 0px 0px, 60PX -23px, -315px -23px;
 }
 .portfolio-box5 .portfolio-box5-caption {
   display: block;
@@ -1677,10 +1694,10 @@ a.yui3-scorestrip-tile-content {
     width: 487px;
     height: 270px;
     top: -497px;
-    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png),url(http://i137.photobucket.com/albums/q239/Friartown/Mathieu3.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
+    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png),url(https://i.imgur.com/jaDG7Cp.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
     background-repeat: repeat,no-repeat, no-repeat;
     background-size: 7PX, 90%,185%;
-    background-position: 0px 0px, 27PX 7px, -105px -210px;
+    background-position: 0px 0px, 27PX 27px, -105px -210px;
 }
 .portfolio-box6 .portfolio-box6-caption {
   display: block;
@@ -1699,10 +1716,10 @@ a.yui3-scorestrip-tile-content {
     width: 400px;
     height: 270px;
     top: -771px;
-    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png), url(http://media.easports.com/content/dam/ea/easports/madden/home/hero-images/2016/august/18/presentation/madden17-presentation-fg-xs.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
+    BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png), url(https://i.imgur.com/9vtDvZH.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
     background-repeat: repeat,no-repeat, no-repeat;
-    background-size: 7PX, 145%,200%;
-    background-position: 0px 0px, -1PX -96px, -248px -150px;
+    background-size: 7PX, 110%,200%;
+    background-position: 0px 0px, -20PX -41px, -248px -150px;
 }
 .portfolio-box7 .portfolio-box7-caption {
   display: block;
@@ -1878,3 +1895,4 @@ span.transactionsfull2 {
     opacity: 1;
     transform: translateY(0);
   }
+
